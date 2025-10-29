@@ -1,2 +1,3 @@
 # hamatest
 test sand
+ethics
