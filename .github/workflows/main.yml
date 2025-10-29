@@ -6,8 +6,9 @@ on:
 
 jobs:
   test:
+    name: hogehoge
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - name: Run tests
-        run: npm test # ← プロジェクトに合わせて変更
+        run: ls
